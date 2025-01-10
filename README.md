@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **gustavo.sennaoliverawork@gmail.com**
+- 📫 How to reach me **https://gustadev.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
